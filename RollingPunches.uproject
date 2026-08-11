@@ -33,6 +33,10 @@
 		{
 			"Name": "VisualStudioSourceCodeAccess",
 			"Enabled": false
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
